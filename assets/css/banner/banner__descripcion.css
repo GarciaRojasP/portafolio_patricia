@@ -1,0 +1,11 @@
+.banner__descripcion{
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+    margin-top: 0.5rem;
+}
+
+@media screen and (min-width: 780px) {
+    .banner__descripcion{
+        font-size: 2rem;
+    }
+}

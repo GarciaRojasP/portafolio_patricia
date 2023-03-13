@@ -1,0 +1,15 @@
+.proyecto__enlace{
+    display: block;
+    text-decoration: none;
+    margin-right: 1rem;
+    font-weight: bold;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.proyecto__enlace:hover{
+    color: var(--color-fuente-enlace);
+}

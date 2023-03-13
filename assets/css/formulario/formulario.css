@@ -1,0 +1,17 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.fieldset{
+    border: none;
+    padding: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .formulario{
+        width: 60%;
+    }
+}

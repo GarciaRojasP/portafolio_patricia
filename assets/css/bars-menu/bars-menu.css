@@ -1,0 +1,11 @@
+.bars-menu{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 780px) {
+    .bars-menu{
+        display: none;
+    }
+}

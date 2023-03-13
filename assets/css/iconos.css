@@ -1,0 +1,4 @@
+.iconos{
+    display: flex;
+    flex-direction: column;
+}

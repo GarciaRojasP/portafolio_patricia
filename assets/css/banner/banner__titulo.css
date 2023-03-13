@@ -1,0 +1,22 @@
+.banner__titulo{
+    font-size: 1rem; /*1.25*/
+    z-index: 1;
+}
+
+.banner__titulo span{
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 1.5rem; /*2.5*/
+    font-weight: 600;
+    color: var(--color-fuente-enlace);
+}
+
+@media screen and (min-width: 780px) {
+    .banner__titulo{
+        font-size: 1.25rem;
+    }
+    
+    .banner__titulo span{
+        font-size: 2rem;
+    }
+}

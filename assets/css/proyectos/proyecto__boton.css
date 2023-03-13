@@ -1,0 +1,4 @@
+.proyecto__boton{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,8 @@
+@media screen and (min-width: 780px) {
+    .banner__contenedor{
+        display: flex;
+        justify-content: space-evenly;
+        width: 90%;
+        flex-direction: row-reverse;
+    }
+}

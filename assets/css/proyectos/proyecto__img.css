@@ -1,0 +1,11 @@
+.proyecto__img{
+    width:100% ; /*450px*/
+    height: 150px;
+}
+
+@media screen and (min-width: 460px) {
+    .proyecto__img{
+        height: 231px;
+
+    }
+}

@@ -1,0 +1,12 @@
+.formacion{
+    display: flex;
+    /*flex-direction: column;*/
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    width: 90%;
+}
+
+.formacion__fecha, .formacion__descripcion{
+    margin-top: 0;
+}

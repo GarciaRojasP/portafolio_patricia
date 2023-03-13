@@ -1,0 +1,10 @@
+.sobre-mi{
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 780px) {
+    .sobre-mi{
+        flex-direction: row;
+    }
+}

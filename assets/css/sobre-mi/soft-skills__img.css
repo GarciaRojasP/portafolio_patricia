@@ -1,0 +1,25 @@
+.soft-skills__img{
+    display: block;
+    width: 90%;
+    min-width: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px 30px 2px #000000;
+}
+
+@media screen and (min-width: 1024px) {
+    .soft-skills__img{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .soft-skills__img{
+        width: 60%;
+    }
+}
+

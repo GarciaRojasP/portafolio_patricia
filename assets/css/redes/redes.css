@@ -1,0 +1,10 @@
+.redes{
+width: 100%;
+height: 80px;
+}
+
+@media screen and (min-width: 780px) {
+    .redes{
+        width: 350px
+        }
+}

@@ -1,0 +1,14 @@
+.proyecto__contenido-implemento{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.proyecto__contenido-implemento span{
+    font-size: 13px;
+    border: 1px solid var(--color-fondo);
+    border-radius: 5px;
+    padding: 8px;
+    transition: .4s;
+    margin: 0 5px 5px 0;
+}

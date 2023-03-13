@@ -1,0 +1,19 @@
+.menu__link{
+    text-decoration: none;
+    color: var(--color-menu);
+    transition: 1s all;
+    -webkit-transition: 1s all;
+    -moz-transition: 1s all;
+    -ms-transition: 1s all;
+    -o-transition: 1s all;
+}
+
+.menu__link:hover{
+    color: var(--color-fuente-enlace);
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.active{
+    color: var(--color-fuente-enlace);
+}

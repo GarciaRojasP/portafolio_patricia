@@ -1,0 +1,5 @@
+.nav__lista{
+    display: flex;
+    align-self: center;
+    list-style-type: none;
+}

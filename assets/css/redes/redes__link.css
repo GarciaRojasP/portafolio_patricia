@@ -1,0 +1,15 @@
+.redes__link{
+    text-decoration: none;
+    color: var(--color-menu);
+    font-size: 1.80rem;
+    transition: 1s all;
+    -webkit-transition: 1s all;
+    -moz-transition: 1s all;
+    -ms-transition: 1s all;
+    -o-transition: 1s all;
+}
+
+.redes__link:hover{
+    font-size: 2.15rem;
+    color: var(--color-fuente-enlace);
+}

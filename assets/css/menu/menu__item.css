@@ -1,0 +1,9 @@
+.menu__item{
+    margin: 32px;
+    opacity: 0;
+    font-size: 1.15rem;
+}
+
+.menu--active .menu__item{
+    opacity: 1;
+}

@@ -1,0 +1,28 @@
+
+.contacto__img{
+    display: none;
+}
+
+@media screen and (min-width: 780px) {
+    .contacto__informacion{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        margin-right: 2rem;
+    }
+
+    .contacto__titulo{
+        font-size: 1.5rem;
+        margin-bottom: 0;
+    }
+    
+    .contacto__descripcion{
+        font-size: 1rem;
+    }
+
+    .contacto__img{
+        display: block;
+        width: 150px;
+        align-self: center;
+    }
+}

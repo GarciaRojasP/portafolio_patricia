@@ -1,0 +1,13 @@
+@media screen and (min-width: 780px) {
+    .sobre-mi__informacion{
+        width: 65%;
+        margin-right: 2rem;
+        padding: 1rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sobre-mi__informacion{
+        width: 65%;
+    }
+}

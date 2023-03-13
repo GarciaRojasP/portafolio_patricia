@@ -1,0 +1,15 @@
+.contenedor{
+    height: 78vh;
+    color: white;
+}
+
+.agradecimiento{
+    width: 80%;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+.agredecimiento__titulo{
+    margin-bottom: 1rem;
+}

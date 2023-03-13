@@ -1,0 +1,8 @@
+.soft-skills__items::before{
+    content: "✯";
+    padding-right: 10px;
+}
+
+.soft-skills__items::after{
+    content: ".";
+}

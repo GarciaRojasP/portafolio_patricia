@@ -1,0 +1,10 @@
+.banner__informacion{
+    margin-top: 20px;
+    color: var(--color-menu);
+}
+
+@media screen and (min-width: 780px) {
+    .banner__informacion{
+        margin-right: 20px;
+    }
+}

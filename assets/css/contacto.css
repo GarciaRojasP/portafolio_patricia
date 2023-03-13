@@ -1,0 +1,5 @@
+.contacto{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-fondo-secundario);
+}
