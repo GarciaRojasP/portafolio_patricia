@@ -10,3 +10,10 @@ challengue de Alura Latam
 
  <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width="50"/><img src="https://img.icons8.com/color/344/css3.png" alt="css" width="50"/><img    src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="50"/>
  <hr>
+ 
+ <h3>Se realizo:</h3>
+-Código realizado desde cero
+-Responsivo (Curso de Alura Latam de Layouts Responsivos)
+-Validación de formulario (curso de Alura Latam de validación de formulario y Html5)
+ 
+ <hr>
