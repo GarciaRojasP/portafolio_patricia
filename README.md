@@ -16,6 +16,8 @@ challengue de Alura Latam
   <li>Código realizado desde cero, diseño propio</li>
   <li>Responsivo (Curso de Alura Latam de Layouts Responsivos)</li>
   <li>Validación de formulario (curso de Alura Latam de validación de formulario y Html5)</li>
+  <li>Agrego algunas animaciones</li>
+  <li>Un botón para un archivo PDF</li>
  </ul>
  
  <hr>
