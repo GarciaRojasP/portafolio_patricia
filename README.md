@@ -12,8 +12,10 @@ challengue de Alura Latam
  <hr>
  
  <h3>Se realizo:</h3>
--Código realizado desde cero
--Responsivo (Curso de Alura Latam de Layouts Responsivos)
--Validación de formulario (curso de Alura Latam de validación de formulario y Html5)
+ <ul>
+  <li>Código realizado desde cero</li>
+  <li>Responsivo (Curso de Alura Latam de Layouts Responsivos)</li>
+  <li>Validación de formulario (curso de Alura Latam de validación de formulario y Html5)</li>
+ </ul>
  
  <hr>
