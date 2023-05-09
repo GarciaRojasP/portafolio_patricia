@@ -4,7 +4,7 @@
 <p><a href="https://www.figma.com/file/o2di04LyhIgUoAbkNLde80/Portafolio?node-id=1%3A29&t=1bwq8A2gSyumsdmo-0">Modelo Figma base</a></p>
 <hr>
 <h3>Apactación a diferentes dispositivos</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/119550417/224876485-fafd1ccb-57bb-4b10-b637-bc77026871e5.png" width="90%"></p>
+<p align="center"><img src="[https://user-images.githubusercontent.com/119550417/224876485-fafd1ccb-57bb-4b10-b637-bc77026871e5.png](https://user-images.githubusercontent.com/119550417/236970195-04d5a7e9-d500-4df0-a130-b14c52661fec.png)" width="90%"></p>
 <hr>
 <h3>Tecnologías utilizadas:</h3>
 
