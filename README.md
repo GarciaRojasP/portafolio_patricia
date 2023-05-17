@@ -17,7 +17,8 @@
   <li>Responsivo (Curso de Alura Latam de Layouts Responsivos)</li>
   <li>Validación de formulario (curso de Alura Latam de validación de formulario y Html5)</li>
   <li>Se agrego algunas animaciones</li>
-  <li>Se agrego un botón para un archivo PDF</li>
+  <li>Se agrego un archivo PDF</li>
+  <li>Formulario funcional utilizando formsubmit</li>
  </ul>
  
  <hr>
